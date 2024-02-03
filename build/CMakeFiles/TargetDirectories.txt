@@ -1,0 +1,3 @@
+C:/Users/junat/OneDrive/.vscode/wizards/build/CMakeFiles/wizards.dir
+C:/Users/junat/OneDrive/.vscode/wizards/build/CMakeFiles/edit_cache.dir
+C:/Users/junat/OneDrive/.vscode/wizards/build/CMakeFiles/rebuild_cache.dir

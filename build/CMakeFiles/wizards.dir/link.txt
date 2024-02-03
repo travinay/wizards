@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\wizards.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\wizards.dir/objects.a @CMakeFiles\wizards.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -Wall -g -g -Wl,--whole-archive CMakeFiles\wizards.dir/objects.a -Wl,--no-whole-archive -o wizards.exe -Wl,--out-implib,libwizards.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\wizards.dir\linkLibs.rsp

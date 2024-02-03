@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/junat/OneDrive/.vscode/wizards/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/wizards.dir/includes_CXX.rsp -Wall -g -g -o CMakeFiles\\wizards.dir\\Monsters.cpp.obj -c C:\\Users\\junat\\OneDrive\\.vscode\\wizards\\Monsters.cpp",
+  "file": "C:/Users/junat/OneDrive/.vscode/wizards/Monsters.cpp",
+  "output": "CMakeFiles/wizards.dir/Monsters.cpp.obj"
+},
+{
+  "directory": "C:/Users/junat/OneDrive/.vscode/wizards/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/wizards.dir/includes_CXX.rsp -Wall -g -g -o CMakeFiles\\wizards.dir\\Stereotypes_world.cpp.obj -c C:\\Users\\junat\\OneDrive\\.vscode\\wizards\\Stereotypes_world.cpp",
+  "file": "C:/Users/junat/OneDrive/.vscode/wizards/Stereotypes_world.cpp",
+  "output": "CMakeFiles/wizards.dir/Stereotypes_world.cpp.obj"
+},
+{
+  "directory": "C:/Users/junat/OneDrive/.vscode/wizards/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/wizards.dir/includes_CXX.rsp -Wall -g -g -o CMakeFiles\\wizards.dir\\Wizards.cpp.obj -c C:\\Users\\junat\\OneDrive\\.vscode\\wizards\\Wizards.cpp",
+  "file": "C:/Users/junat/OneDrive/.vscode/wizards/Wizards.cpp",
+  "output": "CMakeFiles/wizards.dir/Wizards.cpp.obj"
+}
+]
